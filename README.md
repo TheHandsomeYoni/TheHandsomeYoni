@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evyatar</h1>
-<h3 align="center">A very passionate and friendly java developer</h3>
-
-<p align="left"> <a href="https://twitter.com/thehandsomeyoni" target="blank"><img src="https://img.shields.io/twitter/follow/thehandsomeyoni?logo=twitter&style=for-the-badge" alt="thehandsomeyoni" /></a> </p>
+<h3 align="center">A software developer from Portugal 🇵🇹, originally from Israel 🇮🇱</h3>
 
 - 🔭 I’m currently working on [PersistentDataAPI](https://github.com/TheHandsomeYoni/PersistentDataAPI)
 
@@ -10,6 +8,7 @@
 - 💬 Ask me about **Java, C#, and Python**
 
 - 📫 How to reach me **thehandsomeyoni@gmail.com**
+<p align="left"> <a href="https://twitter.com/thehandsomeyoni" target="blank"><img src="https://img.shields.io/twitter/follow/thehandsomeyoni?logo=twitter&style=for-the-badge" alt="thehandsomeyoni" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
