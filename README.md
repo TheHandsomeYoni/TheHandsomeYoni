@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evyatar</h1>
-<h3 align="center">A software developer from Portugal 🇵🇹, originally from Israel 🇮🇱</h3>
+<h3 align="center">A developer from Portugal 🇵🇹, originally from Israel 🇮🇱</h3>
 
 - 🔭 I’m currently working on [PersistentDataAPI](https://github.com/TheHandsomeYoni/PersistentDataAPI)
 
