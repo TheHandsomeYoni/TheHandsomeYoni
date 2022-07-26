@@ -8,7 +8,6 @@
 - 💬 Ask me about **Java, C#, and Python**
 
 - 📫 How to reach me **thehandsomeyoni@gmail.com**
-<p align="left"> <a href="https://twitter.com/thehandsomeyoni" target="blank"><img src="https://img.shields.io/twitter/follow/thehandsomeyoni?logo=twitter&style=for-the-badge" alt="thehandsomeyoni" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
