@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evyatar</h1>
 <h3 align="center">A very passionate and friendly java developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehandsomeyoni&label=Profile%20views&color=0e75b6&style=flat" alt="thehandsomeyoni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehandsomeyoni" alt="thehandsomeyoni" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thehandsomeyoni" target="blank"><img src="https://img.shields.io/twitter/follow/thehandsomeyoni?logo=twitter&style=for-the-badge" alt="thehandsomeyoni" /></a> </p>
 
 - 🔭 I’m currently working on [PersistentDataAPI](https://github.com/TheHandsomeYoni/PersistentDataAPI)
@@ -29,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehandsomeyoni&show_icons=true&locale=en" alt="thehandsomeyoni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehandsomeyoni&" alt="thehandsomeyoni" /></p>
+
