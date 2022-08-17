@@ -24,3 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehandsomeyoni&" alt="thehandsomeyoni" /></p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/294478209796276225)](https://discord.com/users/294478209796276225)
+
