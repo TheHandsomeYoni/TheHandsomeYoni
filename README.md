@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PersistentDataAPI](https://github.com/TheHandsomeYoni/PersistentDataAPI)
 
-- 🌱 I’m currently learning **C#, and Kotlin**
+- 🌱 I’m currently learning **LaTeX, and Kotlin**
 
 - 💬 Ask me about **Java, C#, and Python**
 
