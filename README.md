@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evyatar</h1>
 <h3 align="center">A developer from Portugal 🇵🇹, originally from Israel 🇮🇱</h3>
 
-- 🔭 I’m currently working on [PersistentDataAPI](https://github.com/TheHandsomeYoni/PersistentDataAPI)
+- 🔭 I’m currently working on nothing. I'm free for ideas
 
 - 🌱 I’m currently learning **LaTeX, and Kotlin**
 
