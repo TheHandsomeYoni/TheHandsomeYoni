@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing. I'm free for ideas
 
-- 🌱 I’m currently learning **LaTeX, and Kotlin**
+- 🌱 I’m currently learning **LaTeX**, and expanding my knowledge in **Linux, and C#**
 
 - 💬 Ask me about **Java, C#, and Python**
 
